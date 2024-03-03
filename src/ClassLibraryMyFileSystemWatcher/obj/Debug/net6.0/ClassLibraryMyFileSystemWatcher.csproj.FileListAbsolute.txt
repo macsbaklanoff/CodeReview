@@ -1,0 +1,14 @@
+C:\Users\macsb\maksii_baklanov\Lab-4\Lib\Solution\Class_Library\ClassLibraryMyFileSystemWatcher\bin\Debug\net6.0\ClassLibraryMyFileSystemWatcher.exe
+C:\Users\macsb\maksii_baklanov\Lab-4\Lib\Solution\Class_Library\ClassLibraryMyFileSystemWatcher\bin\Debug\net6.0\ClassLibraryMyFileSystemWatcher.deps.json
+C:\Users\macsb\maksii_baklanov\Lab-4\Lib\Solution\Class_Library\ClassLibraryMyFileSystemWatcher\bin\Debug\net6.0\ClassLibraryMyFileSystemWatcher.runtimeconfig.json
+C:\Users\macsb\maksii_baklanov\Lab-4\Lib\Solution\Class_Library\ClassLibraryMyFileSystemWatcher\bin\Debug\net6.0\ClassLibraryMyFileSystemWatcher.dll
+C:\Users\macsb\maksii_baklanov\Lab-4\Lib\Solution\Class_Library\ClassLibraryMyFileSystemWatcher\bin\Debug\net6.0\ClassLibraryMyFileSystemWatcher.pdb
+C:\Users\macsb\maksii_baklanov\Lab-4\Lib\Solution\Class_Library\ClassLibraryMyFileSystemWatcher\obj\Debug\net6.0\ClassLibraryMyFileSystemWatcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\macsb\maksii_baklanov\Lab-4\Lib\Solution\Class_Library\ClassLibraryMyFileSystemWatcher\obj\Debug\net6.0\ClassLibraryMyFileSystemWatcher.AssemblyInfoInputs.cache
+C:\Users\macsb\maksii_baklanov\Lab-4\Lib\Solution\Class_Library\ClassLibraryMyFileSystemWatcher\obj\Debug\net6.0\ClassLibraryMyFileSystemWatcher.AssemblyInfo.cs
+C:\Users\macsb\maksii_baklanov\Lab-4\Lib\Solution\Class_Library\ClassLibraryMyFileSystemWatcher\obj\Debug\net6.0\ClassLibraryMyFileSystemWatcher.csproj.CoreCompileInputs.cache
+C:\Users\macsb\maksii_baklanov\Lab-4\Lib\Solution\Class_Library\ClassLibraryMyFileSystemWatcher\obj\Debug\net6.0\ClassLibraryMyFileSystemWatcher.dll
+C:\Users\macsb\maksii_baklanov\Lab-4\Lib\Solution\Class_Library\ClassLibraryMyFileSystemWatcher\obj\Debug\net6.0\refint\ClassLibraryMyFileSystemWatcher.dll
+C:\Users\macsb\maksii_baklanov\Lab-4\Lib\Solution\Class_Library\ClassLibraryMyFileSystemWatcher\obj\Debug\net6.0\ClassLibraryMyFileSystemWatcher.pdb
+C:\Users\macsb\maksii_baklanov\Lab-4\Lib\Solution\Class_Library\ClassLibraryMyFileSystemWatcher\obj\Debug\net6.0\ClassLibraryMyFileSystemWatcher.genruntimeconfig.cache
+C:\Users\macsb\maksii_baklanov\Lab-4\Lib\Solution\Class_Library\ClassLibraryMyFileSystemWatcher\obj\Debug\net6.0\ref\ClassLibraryMyFileSystemWatcher.dll
